@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - deathpanel
+  - spawner
+  - body
+  - Enemy
+  - stun
+  - Land
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Land
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - AntLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
